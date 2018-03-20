@@ -1,0 +1,21 @@
+# Hisilicon mpp sample Makefile.param
+
+ifeq ($(PARAM_FILE), )
+     PARAM_FILE:=../../../mpp/Makefile.param
+     include $(PARAM_FILE)
+endif
+
+COMMON_DIR:=$(PWD)/../common
+
+INC_FLAGS := -I$(REL_INC) -I$(COMMON_DIR) 
+INC_FLAGS += -I$(SDK_PATH)/mpp/$(EXTDRV)/tlv320aic31
+
+CFLAGS := -Wall -g $(INC_FLAGS) -D$(HIARCH) -DHICHIP=$(HICHIP) -D$(HIDBG) -D$(HI_FPGA) -lpthread -lm
+
+ifeq ($(HIARCH),hi3535)
+CFLAGS += -march=armv7-a -mcpu=cortex-a9
+CXXFlAGS +=-march=armv7-a -mcpu=cortex-a9
+endif
+
+COMM_SRC := $(wildcard $(COMMON_DIR)/*.c)
+COMM_OBJ := $(COMM_SRC:%.c=%.o)

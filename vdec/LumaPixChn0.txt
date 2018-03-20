@@ -1,0 +1,460 @@
+chn 0,  Pts = 0,  LumPixSum = 0,  LumPixAverage=0!     
+
+chn 0,  Pts = 0,  LumPixSum = 0,  LumPixAverage=0!     
+
+chn 0,  Pts = 0,  LumPixSum = 154741283,  LumPixAverage=74!     
+
+chn 0,  Pts = 0,  LumPixSum = 160595012,  LumPixAverage=76!     
+
+chn 0,  Pts = 0,  LumPixSum = 163228724,  LumPixAverage=78!     
+
+chn 0,  Pts = 0,  LumPixSum = 169269653,  LumPixAverage=81!     
+
+chn 0,  Pts = 0,  LumPixSum = 171078964,  LumPixAverage=81!     
+
+chn 0,  Pts = 0,  LumPixSum = 174130465,  LumPixAverage=83!     
+
+chn 0,  Pts = 0,  LumPixSum = 175033584,  LumPixAverage=83!     
+
+chn 0,  Pts = 0,  LumPixSum = 175287462,  LumPixAverage=83!     
+
+chn 0,  Pts = 0,  LumPixSum = 173138085,  LumPixAverage=82!     
+
+chn 0,  Pts = 0,  LumPixSum = 166176868,  LumPixAverage=79!     
+
+chn 0,  Pts = 0,  LumPixSum = 162042965,  LumPixAverage=77!     
+
+chn 0,  Pts = 0,  LumPixSum = 158187023,  LumPixAverage=75!     
+
+chn 0,  Pts = 0,  LumPixSum = 156416866,  LumPixAverage=74!     
+
+chn 0,  Pts = 0,  LumPixSum = 153437615,  LumPixAverage=73!     
+
+chn 0,  Pts = 0,  LumPixSum = 152058314,  LumPixAverage=72!     
+
+chn 0,  Pts = 0,  LumPixSum = 152414469,  LumPixAverage=72!     
+
+chn 0,  Pts = 0,  LumPixSum = 152428562,  LumPixAverage=72!     
+
+chn 0,  Pts = 0,  LumPixSum = 154275472,  LumPixAverage=73!     
+
+chn 0,  Pts = 0,  LumPixSum = 155427617,  LumPixAverage=74!     
+
+chn 0,  Pts = 0,  LumPixSum = 158588157,  LumPixAverage=75!     
+
+chn 0,  Pts = 0,  LumPixSum = 163139315,  LumPixAverage=78!     
+
+chn 0,  Pts = 0,  LumPixSum = 171074418,  LumPixAverage=81!     
+
+chn 0,  Pts = 0,  LumPixSum = 172873149,  LumPixAverage=82!     
+
+chn 0,  Pts = 0,  LumPixSum = 177537424,  LumPixAverage=84!     
+
+chn 0,  Pts = 0,  LumPixSum = 180989555,  LumPixAverage=86!     
+
+chn 0,  Pts = 0,  LumPixSum = 183308656,  LumPixAverage=87!     
+
+chn 0,  Pts = 0,  LumPixSum = 182853644,  LumPixAverage=87!     
+
+chn 0,  Pts = 0,  LumPixSum = 181477611,  LumPixAverage=86!     
+
+chn 0,  Pts = 0,  LumPixSum = 180784068,  LumPixAverage=86!     
+
+chn 0,  Pts = 0,  LumPixSum = 183566484,  LumPixAverage=87!     
+
+chn 0,  Pts = 0,  LumPixSum = 184526692,  LumPixAverage=88!     
+
+chn 0,  Pts = 0,  LumPixSum = 186108324,  LumPixAverage=89!     
+
+chn 0,  Pts = 0,  LumPixSum = 185979378,  LumPixAverage=89!     
+
+chn 0,  Pts = 0,  LumPixSum = 185216895,  LumPixAverage=88!     
+
+chn 0,  Pts = 0,  LumPixSum = 185187511,  LumPixAverage=88!     
+
+chn 0,  Pts = 0,  LumPixSum = 186151084,  LumPixAverage=89!     
+
+chn 0,  Pts = 0,  LumPixSum = 187108462,  LumPixAverage=89!     
+
+chn 0,  Pts = 0,  LumPixSum = 189226664,  LumPixAverage=90!     
+
+chn 0,  Pts = 0,  LumPixSum = 189647257,  LumPixAverage=90!     
+
+chn 0,  Pts = 0,  LumPixSum = 191043603,  LumPixAverage=91!     
+
+chn 0,  Pts = 0,  LumPixSum = 191688665,  LumPixAverage=91!     
+
+chn 0,  Pts = 0,  LumPixSum = 193487230,  LumPixAverage=92!     
+
+chn 0,  Pts = 0,  LumPixSum = 194698670,  LumPixAverage=93!     
+
+chn 0,  Pts = 0,  LumPixSum = 197360682,  LumPixAverage=94!     
+
+chn 0,  Pts = 0,  LumPixSum = 198165318,  LumPixAverage=94!     
+
+chn 0,  Pts = 0,  LumPixSum = 199396803,  LumPixAverage=95!     
+
+chn 0,  Pts = 0,  LumPixSum = 199438224,  LumPixAverage=95!     
+
+chn 0,  Pts = 0,  LumPixSum = 200409410,  LumPixAverage=95!     
+
+chn 0,  Pts = 0,  LumPixSum = 201372123,  LumPixAverage=96!     
+
+chn 0,  Pts = 0,  LumPixSum = 204202125,  LumPixAverage=97!     
+
+chn 0,  Pts = 0,  LumPixSum = 205668264,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 206104826,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 207044438,  LumPixAverage=99!     
+
+chn 0,  Pts = 0,  LumPixSum = 206020708,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 204847655,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 204226851,  LumPixAverage=97!     
+
+chn 0,  Pts = 0,  LumPixSum = 204702666,  LumPixAverage=97!     
+
+chn 0,  Pts = 0,  LumPixSum = 205432491,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 204911374,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 205405376,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 206146697,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 205537729,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 205485109,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 205217439,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 205512904,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 205315279,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 204266860,  LumPixAverage=97!     
+
+chn 0,  Pts = 0,  LumPixSum = 205768716,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 207192185,  LumPixAverage=99!     
+
+chn 0,  Pts = 0,  LumPixSum = 207859361,  LumPixAverage=99!     
+
+chn 0,  Pts = 0,  LumPixSum = 207765405,  LumPixAverage=99!     
+
+chn 0,  Pts = 0,  LumPixSum = 208079829,  LumPixAverage=99!     
+
+chn 0,  Pts = 0,  LumPixSum = 208396813,  LumPixAverage=99!     
+
+chn 0,  Pts = 0,  LumPixSum = 209429863,  LumPixAverage=100!     
+
+chn 0,  Pts = 0,  LumPixSum = 210154053,  LumPixAverage=100!     
+
+chn 0,  Pts = 0,  LumPixSum = 209997649,  LumPixAverage=100!     
+
+chn 0,  Pts = 0,  LumPixSum = 208621548,  LumPixAverage=99!     
+
+chn 0,  Pts = 0,  LumPixSum = 209335429,  LumPixAverage=100!     
+
+chn 0,  Pts = 0,  LumPixSum = 209655482,  LumPixAverage=100!     
+
+chn 0,  Pts = 0,  LumPixSum = 208617100,  LumPixAverage=99!     
+
+chn 0,  Pts = 0,  LumPixSum = 207734844,  LumPixAverage=99!     
+
+chn 0,  Pts = 0,  LumPixSum = 205920849,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 205305225,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 204667489,  LumPixAverage=97!     
+
+chn 0,  Pts = 0,  LumPixSum = 205494504,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 205570943,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 204986566,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 203499325,  LumPixAverage=97!     
+
+chn 0,  Pts = 0,  LumPixSum = 202297402,  LumPixAverage=96!     
+
+chn 0,  Pts = 0,  LumPixSum = 200666886,  LumPixAverage=96!     
+
+chn 0,  Pts = 0,  LumPixSum = 199691987,  LumPixAverage=95!     
+
+chn 0,  Pts = 0,  LumPixSum = 198941556,  LumPixAverage=95!     
+
+chn 0,  Pts = 0,  LumPixSum = 198485270,  LumPixAverage=95!     
+
+chn 0,  Pts = 0,  LumPixSum = 198246502,  LumPixAverage=94!     
+
+chn 0,  Pts = 0,  LumPixSum = 197122129,  LumPixAverage=94!     
+
+chn 0,  Pts = 0,  LumPixSum = 194189971,  LumPixAverage=92!     
+
+chn 0,  Pts = 0,  LumPixSum = 149397331,  LumPixAverage=71!     
+
+chn 0,  Pts = 0,  LumPixSum = 152522115,  LumPixAverage=73!     
+
+chn 0,  Pts = 0,  LumPixSum = 153706523,  LumPixAverage=73!     
+
+chn 0,  Pts = 0,  LumPixSum = 156378019,  LumPixAverage=74!     
+
+chn 0,  Pts = 0,  LumPixSum = 157501133,  LumPixAverage=75!     
+
+chn 0,  Pts = 0,  LumPixSum = 160595012,  LumPixAverage=76!     
+
+chn 0,  Pts = 0,  LumPixSum = 163228724,  LumPixAverage=78!     
+
+chn 0,  Pts = 0,  LumPixSum = 169269653,  LumPixAverage=81!     
+
+chn 0,  Pts = 0,  LumPixSum = 171078964,  LumPixAverage=81!     
+
+chn 0,  Pts = 0,  LumPixSum = 174130465,  LumPixAverage=83!     
+
+chn 0,  Pts = 0,  LumPixSum = 175033584,  LumPixAverage=83!     
+
+chn 0,  Pts = 0,  LumPixSum = 175287462,  LumPixAverage=83!     
+
+chn 0,  Pts = 0,  LumPixSum = 173138085,  LumPixAverage=82!     
+
+chn 0,  Pts = 0,  LumPixSum = 166176868,  LumPixAverage=79!     
+
+chn 0,  Pts = 0,  LumPixSum = 162042965,  LumPixAverage=77!     
+
+chn 0,  Pts = 0,  LumPixSum = 158187023,  LumPixAverage=75!     
+
+chn 0,  Pts = 0,  LumPixSum = 156416866,  LumPixAverage=74!     
+
+chn 0,  Pts = 0,  LumPixSum = 153437615,  LumPixAverage=73!     
+
+chn 0,  Pts = 0,  LumPixSum = 152058314,  LumPixAverage=72!     
+
+chn 0,  Pts = 0,  LumPixSum = 152414469,  LumPixAverage=72!     
+
+chn 0,  Pts = 0,  LumPixSum = 152428562,  LumPixAverage=72!     
+
+chn 0,  Pts = 0,  LumPixSum = 154275472,  LumPixAverage=73!     
+
+chn 0,  Pts = 0,  LumPixSum = 155427617,  LumPixAverage=74!     
+
+chn 0,  Pts = 0,  LumPixSum = 158588157,  LumPixAverage=75!     
+
+chn 0,  Pts = 0,  LumPixSum = 163139315,  LumPixAverage=78!     
+
+chn 0,  Pts = 0,  LumPixSum = 171074418,  LumPixAverage=81!     
+
+chn 0,  Pts = 0,  LumPixSum = 172873149,  LumPixAverage=82!     
+
+chn 0,  Pts = 0,  LumPixSum = 177537424,  LumPixAverage=84!     
+
+chn 0,  Pts = 0,  LumPixSum = 180989555,  LumPixAverage=86!     
+
+chn 0,  Pts = 0,  LumPixSum = 183308656,  LumPixAverage=87!     
+
+chn 0,  Pts = 0,  LumPixSum = 182853644,  LumPixAverage=87!     
+
+chn 0,  Pts = 0,  LumPixSum = 181477611,  LumPixAverage=86!     
+
+chn 0,  Pts = 0,  LumPixSum = 180784068,  LumPixAverage=86!     
+
+chn 0,  Pts = 0,  LumPixSum = 183566484,  LumPixAverage=87!     
+
+chn 0,  Pts = 0,  LumPixSum = 184526692,  LumPixAverage=88!     
+
+chn 0,  Pts = 0,  LumPixSum = 186108324,  LumPixAverage=89!     
+
+chn 0,  Pts = 0,  LumPixSum = 185979378,  LumPixAverage=89!     
+
+chn 0,  Pts = 0,  LumPixSum = 185216895,  LumPixAverage=88!     
+
+chn 0,  Pts = 0,  LumPixSum = 185187511,  LumPixAverage=88!     
+
+chn 0,  Pts = 0,  LumPixSum = 186151084,  LumPixAverage=89!     
+
+chn 0,  Pts = 0,  LumPixSum = 187108462,  LumPixAverage=89!     
+
+chn 0,  Pts = 0,  LumPixSum = 189226664,  LumPixAverage=90!     
+
+chn 0,  Pts = 0,  LumPixSum = 189647257,  LumPixAverage=90!     
+
+chn 0,  Pts = 0,  LumPixSum = 191043603,  LumPixAverage=91!     
+
+chn 0,  Pts = 0,  LumPixSum = 191688665,  LumPixAverage=91!     
+
+chn 0,  Pts = 0,  LumPixSum = 193487230,  LumPixAverage=92!     
+
+chn 0,  Pts = 0,  LumPixSum = 194698670,  LumPixAverage=93!     
+
+chn 0,  Pts = 0,  LumPixSum = 197360682,  LumPixAverage=94!     
+
+chn 0,  Pts = 0,  LumPixSum = 198165318,  LumPixAverage=94!     
+
+chn 0,  Pts = 0,  LumPixSum = 199396803,  LumPixAverage=95!     
+
+chn 0,  Pts = 0,  LumPixSum = 199438224,  LumPixAverage=95!     
+
+chn 0,  Pts = 0,  LumPixSum = 200409410,  LumPixAverage=95!     
+
+chn 0,  Pts = 0,  LumPixSum = 201372123,  LumPixAverage=96!     
+
+chn 0,  Pts = 0,  LumPixSum = 204202125,  LumPixAverage=97!     
+
+chn 0,  Pts = 0,  LumPixSum = 205668264,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 206104826,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 207044438,  LumPixAverage=99!     
+
+chn 0,  Pts = 0,  LumPixSum = 206020708,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 204847655,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 204226851,  LumPixAverage=97!     
+
+chn 0,  Pts = 0,  LumPixSum = 204702666,  LumPixAverage=97!     
+
+chn 0,  Pts = 0,  LumPixSum = 205432491,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 204911374,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 205405376,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 206146697,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 205537729,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 205485109,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 205217439,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 205512904,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 205315279,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 204266860,  LumPixAverage=97!     
+
+chn 0,  Pts = 0,  LumPixSum = 205768716,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 207192185,  LumPixAverage=99!     
+
+chn 0,  Pts = 0,  LumPixSum = 207859361,  LumPixAverage=99!     
+
+chn 0,  Pts = 0,  LumPixSum = 207765405,  LumPixAverage=99!     
+
+chn 0,  Pts = 0,  LumPixSum = 208079829,  LumPixAverage=99!     
+
+chn 0,  Pts = 0,  LumPixSum = 208396813,  LumPixAverage=99!     
+
+chn 0,  Pts = 0,  LumPixSum = 209429863,  LumPixAverage=100!     
+
+chn 0,  Pts = 0,  LumPixSum = 210154053,  LumPixAverage=100!     
+
+chn 0,  Pts = 0,  LumPixSum = 209997649,  LumPixAverage=100!     
+
+chn 0,  Pts = 0,  LumPixSum = 208621548,  LumPixAverage=99!     
+
+chn 0,  Pts = 0,  LumPixSum = 209335429,  LumPixAverage=100!     
+
+chn 0,  Pts = 0,  LumPixSum = 209655482,  LumPixAverage=100!     
+
+chn 0,  Pts = 0,  LumPixSum = 208617100,  LumPixAverage=99!     
+
+chn 0,  Pts = 0,  LumPixSum = 207734844,  LumPixAverage=99!     
+
+chn 0,  Pts = 0,  LumPixSum = 205920849,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 205305225,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 204667489,  LumPixAverage=97!     
+
+chn 0,  Pts = 0,  LumPixSum = 205494504,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 205570943,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 204986566,  LumPixAverage=98!     
+
+chn 0,  Pts = 0,  LumPixSum = 203499325,  LumPixAverage=97!     
+
+chn 0,  Pts = 0,  LumPixSum = 202297402,  LumPixAverage=96!     
+
+chn 0,  Pts = 0,  LumPixSum = 200666886,  LumPixAverage=96!     
+
+chn 0,  Pts = 0,  LumPixSum = 199691987,  LumPixAverage=95!     
+
+chn 0,  Pts = 0,  LumPixSum = 198941556,  LumPixAverage=95!     
+
+chn 0,  Pts = 0,  LumPixSum = 198485270,  LumPixAverage=95!     
+
+chn 0,  Pts = 0,  LumPixSum = 198246502,  LumPixAverage=94!     
+
+chn 0,  Pts = 0,  LumPixSum = 197122129,  LumPixAverage=94!     
+
+chn 0,  Pts = 0,  LumPixSum = 194189971,  LumPixAverage=92!     
+
+chn 0,  Pts = 0,  LumPixSum = 149397331,  LumPixAverage=71!     
+
+chn 0,  Pts = 0,  LumPixSum = 152522115,  LumPixAverage=73!     
+
+chn 0,  Pts = 0,  LumPixSum = 153706523,  LumPixAverage=73!     
+
+chn 0,  Pts = 0,  LumPixSum = 156378019,  LumPixAverage=74!     
+
+chn 0,  Pts = 0,  LumPixSum = 157501133,  LumPixAverage=75!     
+
+chn 0,  Pts = 0,  LumPixSum = 160595012,  LumPixAverage=76!     
+
+chn 0,  Pts = 0,  LumPixSum = 163228724,  LumPixAverage=78!     
+
+chn 0,  Pts = 0,  LumPixSum = 169269653,  LumPixAverage=81!     
+
+chn 0,  Pts = 0,  LumPixSum = 171078964,  LumPixAverage=81!     
+
+chn 0,  Pts = 0,  LumPixSum = 174130465,  LumPixAverage=83!     
+
+chn 0,  Pts = 0,  LumPixSum = 175033584,  LumPixAverage=83!     
+
+chn 0,  Pts = 0,  LumPixSum = 175287462,  LumPixAverage=83!     
+
+chn 0,  Pts = 0,  LumPixSum = 173138085,  LumPixAverage=82!     
+
+chn 0,  Pts = 0,  LumPixSum = 166176868,  LumPixAverage=79!     
+
+chn 0,  Pts = 0,  LumPixSum = 162042965,  LumPixAverage=77!     
+
+chn 0,  Pts = 0,  LumPixSum = 158187023,  LumPixAverage=75!     
+
+chn 0,  Pts = 0,  LumPixSum = 156416866,  LumPixAverage=74!     
+
+chn 0,  Pts = 0,  LumPixSum = 153437615,  LumPixAverage=73!     
+
+chn 0,  Pts = 0,  LumPixSum = 152058314,  LumPixAverage=72!     
+
+chn 0,  Pts = 0,  LumPixSum = 152414469,  LumPixAverage=72!     
+
+chn 0,  Pts = 0,  LumPixSum = 152428562,  LumPixAverage=72!     
+
+chn 0,  Pts = 0,  LumPixSum = 154275472,  LumPixAverage=73!     
+
+chn 0,  Pts = 0,  LumPixSum = 155427617,  LumPixAverage=74!     
+
+chn 0,  Pts = 0,  LumPixSum = 158588157,  LumPixAverage=75!     
+
+chn 0,  Pts = 0,  LumPixSum = 163139315,  LumPixAverage=78!     
+
+chn 0,  Pts = 0,  LumPixSum = 171074418,  LumPixAverage=81!     
+
+chn 0,  Pts = 0,  LumPixSum = 172873149,  LumPixAverage=82!     
+
+chn 0,  Pts = 0,  LumPixSum = 177537424,  LumPixAverage=84!     
+
+chn 0,  Pts = 0,  LumPixSum = 182917327,  LumPixAverage=87!     
+
+chn 0,  Pts = 0,  LumPixSum = 183308656,  LumPixAverage=87!     
+
+chn 0,  Pts = 0,  LumPixSum = 182853644,  LumPixAverage=87!     
+
+chn 0,  Pts = 0,  LumPixSum = 181477611,  LumPixAverage=86!     
+
